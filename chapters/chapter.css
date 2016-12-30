@@ -1,0 +1,38 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+html{
+  font-family: "Open Sans", sans-serif;
+  font-size:1.1rem;
+  padding: 50px;
+  background-color: antiquewhite;
+}
+
+.inside-article{
+  width: 80%;
+  min-width: 20rem;
+  max-width:40rem;
+  background-color: white;
+  box-shadow: 0 0 1px black;
+  padding: 40px;
+  margin: 0 auto;
+}
+
+.inside-article h1{
+  font-size: 2rem;
+  margin: 20px 0;
+  font-weight: lighter;
+}
+
+.inside-article p{
+  margin: 1rem 0;
+  text-indent: 1rem;
+}
+
+
+
+a{
+  display: none;
+}
